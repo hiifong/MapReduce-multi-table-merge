@@ -1,0 +1,2 @@
+hive --service metastore &
+hive --service hiveserver2 &
